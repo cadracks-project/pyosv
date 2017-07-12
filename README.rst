@@ -19,6 +19,3 @@ be use to build more complex systems.
 .. figure:: global_schema.png
    :scale: 100 %
    :alt: Current state
-
-   Current state of pyosv
-
