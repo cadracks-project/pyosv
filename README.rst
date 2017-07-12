@@ -17,3 +17,26 @@ The pyosv project gathers several projects that brings us closer to that goal:
 
 - `osvcad <https://github.com/osv-team/osvcad>`_ uses ccad, party and standard-cad-parts to model physical products using acyclic directed graphs.
 
+Install
+-------
+
+party
+~~~~~
+
+<tbc>
+
+standard-cad-parts
+~~~~~~~~~~~~~~~~~~
+
+<tbc>
+
+ccad
+----
+
+<tbc>
+
+osvcad
+~~~~~~
+
+<tbc>
+
