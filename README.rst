@@ -3,6 +3,10 @@ pyosv
 
 pyosv is about modelling physical products (think cars, boats, 3D printers ...) the open source way.
 
+.. figure:: global_schema.png
+   :scale: 100 %
+   :alt: Current state
+
 The pyosv project gathers several projects that brings us closer to that goal:
 
 - `party <https://github.com/osv-team/party>`_ is the support/APi code that supports the creation
@@ -15,7 +19,3 @@ be use to build more complex systems.
 
 - `osvcad <https://github.com/osv-team/osvcad>`_ uses ccad, party and standard-cad-parts to model physical products using acyclic directed graphs.
 
-
-.. figure:: global_schema.png
-   :scale: 100 %
-   :alt: Current state
