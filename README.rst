@@ -16,7 +16,7 @@ be use to build more complex systems.
 - `osvcad <https://github.com/osv-team/osvcad>`_ uses ccad, party and standard-cad-parts to model physical products using acyclic directed graphs.
 
 
-.. figure:: img/global_schema.svg
+.. figure:: global_schema.svg
    :scale: 100 %
    :alt: Current state
 
