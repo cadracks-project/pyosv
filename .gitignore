@@ -1,6 +1,11 @@
+# Pycharm project files
 /.idea
 
+# Pypi upload instruction
 pypi_how_to.rst
+
+# Libre office lock files
+.~lock*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
