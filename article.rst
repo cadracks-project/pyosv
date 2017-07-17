@@ -1,5 +1,5 @@
-Open source modelling for open hardware projects
-================================================
+Système d'Information Libre pour la Conception de Produits
+==========================================================
 
 This article describes the use of pyosv components to model open hardware products using Python.
 

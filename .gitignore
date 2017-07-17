@@ -1,5 +1,7 @@
 /.idea
 
+pypi_how_to.rst
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
