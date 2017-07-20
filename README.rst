@@ -1,6 +1,8 @@
 pyosv
 =====
 
+-- ** WARNING : WORK IN PROGRESS ** --
+
 pyosv is about modelling physical products (think cars, boats, 3D printers ...) the open source way.
 
 .. figure:: global_schema.png
@@ -32,10 +34,33 @@ anaconda
 
 We recommend the use of Anaconda as your Python distribution. You can get it `here <https://www.continuum.io/downloads>`_
 
+Anaconda comes with `numpy <http://www.numpy.org/>`_, `scipy <https://www.scipy.org/>`_ and `matplotlib <https://matplotlib.org/>`_ (among others) already included.
+
 dependencies
 ~~~~~~~~~~~~
 
-TODO : split dependencies between conda-installable and pip-only installable
+One of the main dependencies of **pysov** is `PythonOCC <http://www.pythonocc.org/>`_
+
+PythonOCC can be installed with conda (Anaconda package manager) :
+
+.. code:: shell
+
+  conda install -c pythonocc pythonocc-core=0.18
+
+Other dependencies:
+
+.. code:: shell
+
+  conda install jinja2
+  conda install networkx
+  conda install -c anaconda wxpython
+
+.. code:: shell
+
+  pip install jsonpickle
+  pip install pyqt5
+  pip install aocutils
+
 
 ccad
 ~~~~
