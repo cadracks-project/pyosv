@@ -39,7 +39,7 @@ Anaconda comes with `numpy <http://www.numpy.org/>`_, `scipy <https://www.scipy.
 dependencies
 ~~~~~~~~~~~~
 
-One of the main dependencies of **pysov** is `PythonOCC <http://www.pythonocc.org/>`_
+One of the main dependencies of **pyosv** is `PythonOCC <http://www.pythonocc.org/>`_
 
 PythonOCC can be installed with conda (Anaconda package manager) :
 
