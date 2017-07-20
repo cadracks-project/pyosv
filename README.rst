@@ -27,23 +27,50 @@ All projects are tested for Python 2.7 and Python 3.6 compatibility.
 Install
 -------
 
-party
-~~~~~
+anaconda
+~~~~~~~~
 
-<tbc>
+We recommend the use of Anaconda as your Python distribution. You can get it `here <https://www.continuum.io/downloads>`_
 
-standard-cad-parts
-~~~~~~~~~~~~~~~~~~
+dependencies
+~~~~~~~~~~~~
 
-<tbc>
+TODO : split dependencies between conda-installable and pip-only installable
 
 ccad
 ~~~~
 
-<tbc>
+.. code:: shell
+
+  git clone https://github.com/osv-team/ccad
+  cd ccad
+  python setup.py install
+
+
+party
+~~~~~
+
+.. code:: shell
+
+  git clone https://github.com/osv-team/party
+  cd party
+  python setup.py install
+
+
+standard-cad-parts
+~~~~~~~~~~~~~~~~~~
+
+.. code:: shell
+
+  git clone https://github.com/osv-team/standard-cad-parts
+
 
 osvcad
 ~~~~~~
 
-<tbc>
+.. code:: shell
+
+  git clone https://github.com/osv-team/osvcad
+  cd osvcad
+  python setup.py install
 
