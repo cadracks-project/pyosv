@@ -99,3 +99,21 @@ osvcad
   cd osvcad
   python setup.py install
 
+
+Getting started
+---------------
+
+What can you do with the **pyosv** packages? Well, you can:
+
+- use an existing parts library
+
+to be completed
+
+- design a parts library
+
+to be completed
+
+- assemble parts from parts libraries, custom scripted parts, STEP file-defined parts in a complex project.
+
+to be completed
+
